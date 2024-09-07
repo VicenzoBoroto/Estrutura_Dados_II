@@ -1,3 +1,4 @@
+//Vicenzo Boroto Pompermayer
 // Crie em C a estrutura de uma árvore binária cuja informação seja um inteiro.
 // Escreva funções que recebam um ponteiro para a raiz da árvore e façam:
 // • Inserção de um elemento na árvore;
